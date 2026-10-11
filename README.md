@@ -2,7 +2,7 @@
 
 A real estate agency website with searchable listings, a page for every property, a mortgage calculator and viewing requests, built with Next.js, TypeScript and Tailwind CSS.
 
-**Live demo:** _coming soon_
+**Live demo:** "https://northgate-realty.vercel.app/"
 
 ## Features
 
@@ -37,7 +37,7 @@ npm install
 npm run dev
 ```
 
-Then open [http://localhost:3000](http://localhost:3000).
+Then open [Northgate](https://northgate-realty.vercel.app/).
 
 ## Project structure
 
@@ -67,12 +67,3 @@ Adding a listing to `properties` automatically creates its page, adds it to sear
 
 Brand colours are defined in the `@theme` block of `app/globals.css`.
 
-## Deployment
-
-**Vercel:** import the repository at [vercel.com/new](https://vercel.com/new) and deploy with the default settings.
-
-**Any other host:** run `npm run build` and upload the contents of the generated `out/` folder.
-
-## Credits
-
-Photography from [Unsplash](https://unsplash.com). Fonts: Bricolage Grotesque and Figtree from Google Fonts.
